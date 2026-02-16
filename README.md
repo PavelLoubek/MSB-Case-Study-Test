@@ -37,3 +37,17 @@ Stačí přidat do složky input. Vezme si to veškeré .csv soubory.
 ## Jak řešení udržovat
 
 Při změně struktury lze změnit v kódu. Zde v příkladu pod proměnnou *requiredColumns*
+
+
+
+# Rychlé zbytky odpovědí pro diskuzi:
+
+**Jaké technologie nebo nástroje byste použili?**
+
+Já si vybral Python, mám v něm nějakou znalost a podobné řešení jsem si již zkoušel. Určitě by šla potencionální automatizace přes nějaký Make.com, Zapier a jiný, který by dokázal šahat třeba do Sharepointu, každopádně tohle si dokážu vytvořit v domácím prostředí, dá se to pustit lokálně a zvládnu to vytvořit rychle.
+
+**Uveďte možné problémy (např. nekonzistentní data) a jak je řešit.**
+
+Neudělal jsem tolik kontrol, aby program byl bezproblémový (to ani nikdy na 100% nebude). Každopádně pár základních kontrol jsem udělal, zbytek by se s více časem odladil, i dle tabulky a používání.
+
+Každopádně očekával bych využití finálního vygenerovaného reportu v nějakém PowerBI, kde by si ho někdo dál zpracoval.
