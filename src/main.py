@@ -5,8 +5,8 @@ import os
 import datetime
 
 date = datetime.datetime.now().strftime("%d%m%Y")
-inputFolder = "../input"
-outputFolder = "../output"
+inputFolder = "./input"
+outputFolder = "./output"
 outputFile = date + "_merged_report.csv"
 
 requiredColumns = ["Date", "Client", "Product", "Quantity", "Revenue"]
